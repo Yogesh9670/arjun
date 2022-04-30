@@ -53,7 +53,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDXOS/LEGENDBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy yogesh9670?template=https://github.com/LEGENDXOS/LEGENDBOT)
 
 ## Deploy Locally
 
